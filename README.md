@@ -12,4 +12,5 @@ E' possibile registare una movimentazione del robot e poi eseguirla ciclicamente
 **Link utili**
 
 Il progetto prende spunto da questo [video](https://youtu.be/SAOT3-3pB34?si=McyX3ZUwawycxd_Z)
+
 Il modello 3D è disponibile a questo [link](https://cults3d.com/en/3d-model/gadget/robotic-arm-fabri_creator-2)
