@@ -1,5 +1,6 @@
 # Robot Fablab Pinerolo
 Robot Antropomorfo didattico in collaborazione con Fablab Pinerolo
+
 Il progetto utilizza:
 - Arduino Nano
 - 4 Servo SG90
